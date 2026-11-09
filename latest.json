@@ -1,10 +1,10 @@
 {
-  "sha256": "a00bbe157f33343d19858926a80e232d9e99572d978dcf4df9061d41c998ba2b",
-  "sizeBytes": 104839453,
+  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.4/looper-windows-companion.zip",
+  "sha256": "8af4dbfb228ff052aede6e5064dd3c6a07e6f3d19eb8d78e046af8adc3ee1587",
+  "release": "1.0.4",
+  "sizeBytes": 104840640,
+  "notes": "Merge pull request #154 from bpgpitt10/companion-gspro4-hud2",
+  "source": "nova-v0@9d9b95a5230201b440f2842c6333926d3309aae1",
   "minRelease": "1.0.0",
-  "source": "nova-v0@5b73ceacdb874e3f58687558504c77009a5b152f",
-  "release": "1.0.3",
-  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.3/looper-windows-companion.zip",
-  "publishedAt": "2026-11-09T02:20:40Z",
-  "notes": "Merge pull request #153 from bpgpitt10/companion-gspro4-hud"
+  "publishedAt": "2026-11-09T02:40:03Z"
 }
