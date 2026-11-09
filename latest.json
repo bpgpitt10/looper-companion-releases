@@ -1,10 +1,10 @@
 {
-  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.0/looper-windows-companion.zip",
-  "release": "1.0.0",
-  "source": "nova-v0@b3919d87a8f753739e01bb06a38f50377de37bab",
+  "release": "1.0.1",
+  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.1/looper-windows-companion.zip",
+  "notes": "Merge pull request #151 from bpgpitt10/companion-course-roots",
+  "publishedAt": "2026-11-09T02:04:07Z",
+  "sizeBytes": 104827925,
+  "source": "nova-v0@3e4c0bebb3f87929d59307ee2325deb0a5006ce2",
   "minRelease": "1.0.0",
-  "sha256": "474c647a132ba9c145cfb38a2a2773778b3694d73f467261656171492839a5d0",
-  "sizeBytes": 104827294,
-  "notes": "Merge pull request #129 from bpgpitt10/web-companion-distribution",
-  "publishedAt": "2026-11-06T03:52:06Z"
+  "sha256": "499c356456a74ef6e38b8320c3983bc2c8018fa91a0f56cecf536d8bbc9470a0"
 }
