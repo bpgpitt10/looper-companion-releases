@@ -1,10 +1,10 @@
 {
-  "publishedAt": "2026-11-13T02:14:40Z",
-  "notes": "Screen-only caddie: club and aim with no map, from what the screen shows (#149)",
-  "sha256": "9801c2c5ca3830ffc93eefb7cbb5b67704ad6acc55a3d7342e4398e2c7f14cf2",
-  "sizeBytes": 104846010,
-  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.6/looper-windows-companion.zip",
-  "source": "nova-v0@dca63ed489fce9272925647647eb1d773f1ab52e",
   "minRelease": "1.0.0",
-  "release": "1.0.6"
+  "release": "1.0.7",
+  "source": "nova-v0@dd6e22d4044a8f49debb5c33c480b83896d94fe0",
+  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.7/LooperCompanionSetup.exe",
+  "sha256": "fab5f0cee2faa21bcc14c219c8d50b2f4ecd46b3844855532f7089586b83f01c",
+  "notes": "Companion 1.0.7: a one-file installer (LooperCompanionSetup.exe) (#170)",
+  "publishedAt": "2026-11-13T03:08:33Z",
+  "sizeBytes": 93308711
 }
