@@ -1,10 +1,10 @@
 {
+  "publishedAt": "2026-11-13T02:14:40Z",
+  "notes": "Screen-only caddie: club and aim with no map, from what the screen shows (#149)",
+  "sha256": "9801c2c5ca3830ffc93eefb7cbb5b67704ad6acc55a3d7342e4398e2c7f14cf2",
+  "sizeBytes": 104846010,
+  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.6/looper-windows-companion.zip",
+  "source": "nova-v0@dca63ed489fce9272925647647eb1d773f1ab52e",
   "minRelease": "1.0.0",
-  "sizeBytes": 104844360,
-  "release": "1.0.5",
-  "sha256": "8f1247ef450680a4854ef0278013019ceaf2f1a2ab99bfdbde0397ecb0ba6215",
-  "notes": "Merge pull request #155 from bpgpitt10/companion-gspro4-hud3",
-  "publishedAt": "2026-11-09T02:54:03Z",
-  "source": "nova-v0@fa5229a6084cecf125cffad578162e3aec92a1b5",
-  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.5/looper-windows-companion.zip"
+  "release": "1.0.6"
 }
