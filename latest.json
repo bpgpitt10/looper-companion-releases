@@ -1,10 +1,13 @@
 {
+  "importantRelease": "1.1.0",
+  "notes": "Looper Companion 1.1.0: Auto Aim works with the minimap on the left and on Payne's Valley; voice arming; reads GSPro's course settings (#175)",
+  "sizeBytes": 150032794,
+  "feature": "Voice arming: say \"Looper, three wood\" to arm a club. Looper also reads GSPro's green, fairway and course type settings each shot.",
+  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.1.0/LooperCompanionSetup.exe",
+  "release": "1.1.0",
+  "bugFix": "Auto Aim now works with GSPro's minimap on the left, and on courses like Payne's Valley that draw shaded ball and pin markers.",
+  "publishedAt": "2026-11-20T02:51:22Z",
   "minRelease": "1.0.0",
-  "release": "1.0.7",
-  "source": "nova-v0@dd6e22d4044a8f49debb5c33c480b83896d94fe0",
-  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.0.7/LooperCompanionSetup.exe",
-  "sha256": "fab5f0cee2faa21bcc14c219c8d50b2f4ecd46b3844855532f7089586b83f01c",
-  "notes": "Companion 1.0.7: a one-file installer (LooperCompanionSetup.exe) (#170)",
-  "publishedAt": "2026-11-13T03:08:33Z",
-  "sizeBytes": 93308711
+  "source": "nova-v0@29ff6a53de8e3e31bc25b08d292cb6be4ad8e2f9",
+  "sha256": "0720cce681bbe378f2cb9add379e265fbe4a6dec4407ac2c2ab4dd3fc4d8adf8"
 }
