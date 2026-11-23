@@ -1,13 +1,13 @@
 {
-  "sizeBytes": 150032239,
-  "bugFix": "Auto Aim works on chips, par 3 tees and zoomed or angled minimaps, on either side of the screen and on Payne's Valley. Fewer false \"Check the aim\" warnings.",
-  "importantRelease": "1.2.0",
-  "feature": "Voice: \"Looper, three wood\" arms a club, \"Looper, pitch\" shows a chip, \"Looper, retry\" aims again. Looper also reads GSPro's green and course settings.",
-  "sha256": "ede47b898b8c48675f182ce2afdec3be096a985046836d2f8a0e38614fdc937b",
-  "publishedAt": "2026-11-22T03:44:34Z",
-  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.2.0/LooperCompanionSetup.exe",
-  "notes": "Looper Companion 1.2.0: Auto Aim on chips and par 3s, chip and retry voice (#221)",
-  "source": "nova-v0@b4e26b353cedf94fde28bed103cc8e7ef536ba75",
-  "release": "1.2.0",
-  "minRelease": "1.0.0"
+  "importantRelease": "1.2.1",
+  "bugFix": "Auto Aim on dull or shaded courses.",
+  "sha256": "f68cd439d0ad6aadb963a756b6160f7a06b5c5223c30578d2246495fab5ad9bf",
+  "notes": "Companion 1.2.1: Auto Aim by where the dots sit, voice for wedge flights (#240)",
+  "url": "https://github.com/bpgpitt10/looper-companion-releases/releases/download/v1.2.1/LooperCompanionSetup.exe",
+  "feature": "Your caddie listens now. Say \"Looper, three wood\" or \"Looper, arm the flop\" and GSPro is aimed for you, from the tee to a 20 yard chip.",
+  "publishedAt": "2026-11-23T20:50:51Z",
+  "minRelease": "1.0.0",
+  "sizeBytes": 150102486,
+  "source": "nova-v0@01ed3b5e4784832df5ca456ed7b40687409bb47a",
+  "release": "1.2.1"
 }
